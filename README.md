@@ -1,3 +1,4 @@
+https://mosnad-web01.github.io/Abdulmajeed-phase-1-scope-lab/
 # Scope Lab
 
 ## Learning Goals
